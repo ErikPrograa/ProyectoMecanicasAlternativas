@@ -1,0 +1,72 @@
+#################################
+# Unreal Engine Generated Files #
+#################################
+/[Bb]uild
+/[Bb]uilds
+/DerivedDataCache
+/Intermediate
+/Saved
+
+#################################
+# Visual Studio Generated Files #
+#################################
+# Cache Directory
+.vs
+# User Specific Files
+*.vsconfig
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# CPP Cache Files
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+# Solution Files
+*.sln
+# VSCode Cache Directory
+.vscode
+# VSCode History Files
+**/.history
+
+#################################
+# Miscellaneous Generated Files #
+#################################
+# ADD AS NEED BE
+# Content/AssetStore/
+Content/newstuff/
+Content/TheIronCapital/
+Content/UrbanWarzone/
+
+#################################
+#    Rider/ RiderLink Files     #
+#################################
+.idea/
+*.iml
+Plugins/*/RiderLink/*
+Mindaro.sln.DotSettings.user
+Mindaro.uproject.DotSettings.user
+
+
+#################################
+# Unreal Engine Generated Part2 #
+#################################
+
+# Don't ignore icon files in Build
+!Build/**/*.ico
+Binary Files
+Binaries/*
+Plugins/*/Binaries/*
+
+#################################
+#      MacOS Generated Files    #
+#################################
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+*.xcodeproj
+*.xcworkspace
